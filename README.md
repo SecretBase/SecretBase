@@ -1,6 +1,8 @@
 # Hello There
 
-I am a Frontend Developer from Hong Kong. Love to solve daily problems that I encounter with my skill sets.
+I am a Frontend Developer from Hong Kong.
+
+In love with building small thing that solving day to day problems and learn new thing.
 
 ## Frontend Frameworks I enjoy to use:
 
